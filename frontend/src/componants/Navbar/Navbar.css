@@ -49,8 +49,8 @@
     background-color: rgb(216, 50, 20);
     border-radius: 5px;
     top: -8px;
-    right: -8px;
-}
+    right: -8px; }
+
 @media (max-width:1050px) {
     .navbar .logo{
         width: 140px;
